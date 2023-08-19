@@ -1,0 +1,16 @@
+{
+  "name": "freecodecamp-image-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniele Del Giudice",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "^4.15.4",
+    "google-images": "^0.1.4",
+    "mongoose": "^7.4.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
